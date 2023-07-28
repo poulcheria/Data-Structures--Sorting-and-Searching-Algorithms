@@ -4,9 +4,9 @@ Data Structures in C++: Sorting &amp; Searching Explore sorting &amp; searching 
 Overview &amp;
 This repository contains C++ implementations and performance analysis of essential sorting and searching algorithms as part of my university project for the Computer Engineering and Informatics department (CEID) . The algorithms were tested on a dataset consisting of temperature and humidity measurements.
 
-## Sorting Algorithms**
+## Sorting Algorithms
 ### 1. Merge Sort and Quick Sort
-Merge Sort execution time: 21.643 sec
+Merge Sort execution time: 21.643 sec  
 Quick Sort execution time: 24.844 sec
 
 **Theoretical complexities:**
