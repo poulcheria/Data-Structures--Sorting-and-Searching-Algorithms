@@ -17,7 +17,7 @@ Quick Sort: O(n^2) comparisons and O(logn) swaps in the worst case, but O(nlogn)
 Merge Sort's worst-case complexity is O(nlogn) for both comparisons and swaps. Quick Sort has a worst-case complexity of O(n^2) for comparisons and O(logn) swaps. However, on average, Quick Sort's performance improves significantly to O(nlogn) comparisons and O(logn) swaps due to its randomized pivot selection strategy.
 
 ### 2. Heap Sort and Counting Sort
-Heap Sort execution time: 22.949 sec
+Heap Sort execution time: 22.949 sec  
 Counting Sort execution time: 20.513 sec
 
 **Theoretical complexities:**
@@ -29,7 +29,7 @@ Heap Sort's worst-case complexity is O(nlogn) for comparisons and performs a con
 
 ## Searching Algorithms
 ### 1. Binary Search and Interpolation Search
-Binary Search execution time: 4.717 sec
+Binary Search execution time: 4.717 sec  
 Interpolation Search execution time: 4.492 sec
 
 **Theoretical complexity:**
