@@ -2,7 +2,7 @@
 
 Data Structures in C++: Sorting &amp; Searching Explore sorting &amp; searching algorithms in C++. 
 Overview &amp;
-This repository contains C++ implementations and performance analysis of essential sorting and searching algorithms as part of my university project for the Computer Engineering and Informatics department (CEID) . The algorithms were tested on a dataset consisting of temperature and humidity measurements.
+This repository contains C++ implementations and performance analysis of essential sorting and searching algorithms as part of my university project for the Computer Engineering and Informatics Department (CEID) . The algorithms were tested on a dataset consisting of temperature and humidity measurements.
 
 ## Sorting Algorithms
 ### 1. Merge Sort and Quick Sort
