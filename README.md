@@ -37,3 +37,11 @@ Both Binary Search and Interpolation Search have an average time complexity of O
 
 **Explanation:**
 The theoretical complexity for the searching algorithms is correct. Both Binary Search and Interpolation Search have an average time complexity of O(logn) for sorted arrays.
+
+## Installation and Usage  
+To run the Data-Structures--Sorting-and-Searching-Algorithms project:  
+1. Clone or Download the Repository.  
+2. Open the Project in a C++ IDE or Text Editor.  
+3. Compile the C++ Files.  
+4. Run the Executable by running the following command: ./main  
+5. Interpret the Results
